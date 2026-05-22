@@ -17,9 +17,9 @@
 🎓 Information Systems student at King Saud University  
 📊 Passionate about Data Science, Data Analysis, and Data Management  
 🛡️ Interested in Data Protection, Data Governance, and Information Security principles  
-💡 Focused on building strong foundations in programming (Python & Java)  
+💡 Focused on building strong foundations in programming (Python, Java, and SQL)  
 📈 Motivated to explore how data can be transformed into meaningful insights  
-🚀 Currently learning and improving my skills in software development and data-related fields   
+🚀 Currently learning and improving my skills in software development and data-related fields    
 
 ---
 
