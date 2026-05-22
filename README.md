@@ -15,19 +15,24 @@
 ## 👨‍💻 About Me
 
 🎓 Information Systems student at King Saud University  
-📊 Specialized in Data Science & Data Management  
-💡 Passionate about programming, especially Python & Java  
-📈 Interested in Data Analytics, Data Governance, and Information Management  
-🚀 Currently learning and building my skills in software development and data technologies  
+📊 Passionate about Data Science, Data Analysis, and Data Management  
+🛡️ Interested in Data Protection, Data Governance, and Information Security principles  
+💡 Focused on building strong foundations in programming (Python & Java)  
+📈 Motivated to explore how data can be transformed into meaningful insights  
+🚀 Currently learning and improving my skills in software development and data-related fields   
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
 </p>
 
+### IDEs I Use
+<p>
+  <img src="https://skillicons.dev/icons?i=eclipse,pycharm,vscode" />
+</p>
 ---
 
 ## 📚 Currently Learning
