@@ -31,7 +31,7 @@
 
 ### IDEs I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=eclipse,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=eclipse,pycharm" />
 </p>
 ---
 
